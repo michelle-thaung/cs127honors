@@ -19,21 +19,16 @@ After compiling data, we assembled the following list of rankings of our selecte
 5. Midtown
 
 ## Highlighted Map of West Village
-![Highlighted Map](https://github.com/michelle-thaung/cs127honors/blob/gh-pages/westvillagehighlighted.png)
-
+![Highlighted Map](/westvillagehighlighted.png)
 
 ## Neighborhood  Analysis
 ### Roadway and Sidewalk Seating Availability
-![Seating Graph](https://github.com/michelle-thaung/cs127honors/blob/gh-pages/wvseating.png)
+![Seating Graph](/wvseating.png)
 According to these graphs which analyze the number of restaurants with the roadway and sidewalk seating availability within Manhattan, the West Village has the most amount of restaurants with roadway seating availability as well as sidewalk seating availability. 
 
 ### Restaurants Permitting Alcohol 
-![Alcohol Graph](https://github.com/michelle-thaung/cs127honors/blob/gh-pages/wvalcohol.png)
+![Alcohol Graph](/wvalcohol.png)
 According to the graphs above the borough that has the greatest amount of restaurants that qualify for alcohol is Manhattan. Additionally within Manhattan it can be seen that the West Village had the highest number of restaurants that qualify for alcohol followed by Midtown, the East Village, Soho, and Chelsea.
-
-## Highlighted Map of West Village 
-![Highlighted Map](https://github.com/michelle-thaung/cs127honors/blob/gh-pages/westvillagehighlighted.png)
-
 
 ## Map of West Village Restaurants
 <dl>
